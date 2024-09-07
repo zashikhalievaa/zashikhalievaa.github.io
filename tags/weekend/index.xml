@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weekend | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/weekend/</link>
+      <atom:link href="http://localhost:1313/tags/weekend/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weekend</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Weekend</title>
+      <link>http://localhost:1313/tags/weekend/</link>
+    </image>
+    
+    <item>
+      <title>Пост по прошедшей неделе</title>
+      <link>http://localhost:1313/post/get-started/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/get-started/</guid>
+      <description>&lt;h2 id=&#34;пост-по-прошедшей-неделе&#34;&gt;Пост по прошедшей неделе&lt;/h2&gt;
+&lt;p&gt;Эта неделя пролетела в мгновение ока, будто лето само решило ускорить свой бег. Всю неделю я наслаждалась солнцем и теплом:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Прогуливаясь по парку, ловя аромат цветов и наслаждаясь пением птиц.&lt;/li&gt;
+&lt;li&gt;Отдыхая на пляже, купаясь в прохладной воде и загорая под лучами солнца.&lt;/li&gt;
+&lt;li&gt;Готовя вкусные летние салаты и экспериментируя с новыми рецептами.&lt;/li&gt;
+&lt;li&gt;Читая книги на террасе, окруженная зеленью и тишиной.
+Лето - это время для перезагрузки, и я стараюсь использовать его по максимуму.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

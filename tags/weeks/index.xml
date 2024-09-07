@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weeks | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/weeks/</link>
+      <atom:link href="http://localhost:1313/tags/weeks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weeks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Weeks</title>
+      <link>http://localhost:1313/tags/weeks/</link>
+    </image>
+    
+    <item>
+      <title>Пост по прошедшей неделе</title>
+      <link>http://localhost:1313/post/summary1/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/summary1/</guid>
+      <description>&lt;h2 id=&#34;пост-по-прошедшей-неделе&#34;&gt;Пост по прошедшей неделе&lt;/h2&gt;
+&lt;p&gt;Эта неделя пролетела в мгновение ока, будто лето само решило ускорить свой бег. Всю неделю я наслаждалась солнцем и теплом:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Прогуливаясь по парку, ловя аромат цветов и наслаждаясь пением птиц.&lt;/li&gt;
+&lt;li&gt;Отдыхая на пляже, купаясь в прохладной воде и загорая под лучами солнца.&lt;/li&gt;
+&lt;li&gt;Готовя вкусные летние салаты и экспериментируя с новыми рецептами.&lt;/li&gt;
+&lt;li&gt;Читая книги на террасе, окруженная зеленью и тишиной.
+Лето - это время для перезагрузки, и я стараюсь использовать его по максимуму. )&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе</title>
+      <link>http://localhost:1313/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</guid>
+      <description>&lt;h2 id=&#34;пост-по-прошедшей-неделе&#34;&gt;Пост по прошедшей неделе&lt;/h2&gt;
+&lt;p&gt;Эта неделя пролетела в мгновение ока, будто лето само решило ускорить свой бег. Всю неделю я наслаждалась солнцем и теплом:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Прогуливаясь по парку, ловя аромат цветов и наслаждаясь пением птиц.&lt;/li&gt;
+&lt;li&gt;Отдыхая на пляже, купаясь в прохладной воде и загорая под лучами солнца.&lt;/li&gt;
+&lt;li&gt;Готовя вкусные летние салаты и экспериментируя с новыми рецептами.&lt;/li&gt;
+&lt;li&gt;Читая книги на террасе, окруженная зеленью и тишиной.
+Лето - это время для перезагрузки, и я стараюсь использовать его по максимуму. )&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
