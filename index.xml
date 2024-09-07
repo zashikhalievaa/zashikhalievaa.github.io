@@ -45,30 +45,6 @@
     </item>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Experience</title>
       <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
@@ -333,10 +309,63 @@ data.head()
     </item>
     
     <item>
+      <title>Github labs</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Научные языки программирования</title>
+      <link>http://localhost:1313/post/language/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/language/</guid>
+      <description>&lt;p&gt;Языки научного программирования играют ключевую роль в анализе данных, моделировании и визуализации. Они предоставляют ученым и инженерам мощные инструменты для решения сложных задач. Вот некоторые из наиболее популярных языков:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- Python
+
+Преимущества: Простота синтаксиса, богатая экосистема библиотек (NumPy, Pandas, Matplotlib, SciPy).
+Применение: Машинное обучение, анализ данных, визуализация.
+
+ - R
+
+Преимущества: Специализирован для статистического анализа, обширная библиотека пакетов.
+Применение: Статистический анализ, биоинформатика, эконометрика.
+
+  - MATLAB
+
+Преимущества: Мощные инструменты для численных вычислений, интерактивная среда.
+Применение: Инженерные расчеты, симуляции, обработка сигналов.
+
+   - Julia
+
+Преимущества: Высокая производительность, совместимость с Python и R.
+Применение: Высокопроизводительные вычисления, научные исследования.
+
+   - Wolfram Language (Mathematica)
+
+Преимущества: Символьные вычисления, обширная библиотека алгоритмов.
+Применение: Математические исследования, физика, инженерия.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Эти языки позволяют исследователям эффективно решать сложные задачи и делать научные открытия. Выбор языка зависит от конкретных требований проекта и предпочтений пользователя.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Последние дни лета</title>
+      <link>http://localhost:1313/post/summary2-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.0/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/summary2-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.0/</guid>
+      <description>&lt;h2 id=&#34;пост-по-прошедшей-неделе&#34;&gt;Пост по прошедшей неделе&lt;/h2&gt;
+&lt;p&gt;Прошла эта  неделя. На этой  неделе я ещё отдыхала, и.к ещё были каникулы. День начинался так: Утренний подъем,  завтракала и собиралась на море. и так до вчера, купалась и  кушала.  Потом на следующий день поехали с семьей в лес, жарили шашлыки, построили палату и провели два дня там. увидели много чего загадочного. И конец неделе  прошел сборами, собирала чемоданы, так как уже нужно было приехать в Москву.  Все было отлично, жаль что лето быстро закончилось. как то так&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Как делать отчет</title>
-      <link>http://localhost:1313/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <link>http://localhost:1313/post/md/</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <guid>http://localhost:1313/post/md/</guid>
       <description>&lt;p&gt;Основные принципы оформления отчетов по практике приведены в Стандарте организации «Порядок оформления методических разработок, курсовых и выпускных квалифицированных работ». Порядок разработан на основе Государственных стандартов оформления документов (ГОСТ 1.5-2001, ГОСТ 7.1-2003).
 Текст отчета по практике должен быть набран на компьютере шрифтом Times New Roman размером 14 пт. (при оформлении текста используется текстовый редактор Microsoft Word). Шрифт, используемый в иллюстративном материале (таблицы и рисунки), рекомендуется уменьшить до 12 пт. Межстрочный интервал в основном тексте - полуторный. В иллюстративном материале межстрочный интервал рекомендуется сделать одинарным. Поля страницы должны быть:&lt;/p&gt;
 &lt;ul&gt;
@@ -378,9 +407,9 @@ data.head()
     
     <item>
       <title>Последние дни лета</title>
-      <link>http://localhost:1313/post/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <link>http://localhost:1313/post/summary2.0/</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <guid>http://localhost:1313/post/summary2.0/</guid>
       <description>&lt;h2 id=&#34;пост-по-прошедшей-неделе&#34;&gt;Пост по прошедшей неделе&lt;/h2&gt;
 &lt;p&gt;Прошла эта  неделя. На этой  неделе я ещё отдыхала, и.к ещё были каникулы. День начинался так: Утренний подъем,  завтракала и собиралась на море. и так до вчера, купалась и  кушала.  Потом на следующий день поехали с семьей в лес, жарили шашлыки, построили палату и провели два дня там. увидели много чего загадочного. И конец неделе  прошел сборами, собирала чемоданы, так как уже нужно было приехать в Москву.  Все было отлично, жаль что лето быстро закончилось. как то так&lt;/p&gt;
 </description>
