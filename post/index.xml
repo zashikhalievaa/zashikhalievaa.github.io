@@ -5,12 +5,43 @@
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Blog</title>
       <link>http://localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>Поезда в родной город</title>
+      <link>http://localhost:1313/post/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/summary1-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;пост-по-прошедшей-неделе&#34;&gt;Пост по прошедшей неделе&lt;/h2&gt;
+&lt;p&gt;Эту неделю я прилетела  в  Дербенте. Это мой родной город . Эту неделю я провела в этом удивительном месте, где древние крепости соседствуют с современными улицами, а аромат восточных специй смешивается с морским бризом. Я гуляла по старинным улочкам, любовалась величественной крепостной стеной, забиралась на вершину горы, откуда открывался потрясающий вид на город и море. Купалась в лазурной воде Каспийского моря, наслаждалась вкусной кухней, пробовала местные сладости и наслаждалась атмосферой гостеприимства. Ещё я ходила на рыбалку с братом, смогла даже поймать несколько рыб. потом мы все это пожарили на костре, было очень вкусно. Также увиделась с бабушками, со всеми родственниками по которым я скучала. неделя была супер насыщенной.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Язык разметки markdown</title>
+      <link>http://localhost:1313/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git-1-%D1%8F-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Markdown — это легкий язык разметки, который позволяет форматировать текст с помощью простых символов. Он идеально подходит для создания читабельных документов, которые можно легко преобразовать в HTML или другие форматы.&lt;/p&gt;
+&lt;h2 id=&#34;преимущества-markdown&#34;&gt;Преимущества Markdown&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;* Простота: Markdown легко читается и пишется, что делает его идеальным для быстрого создания документов.
+
+* Совместимость: Документы в Markdown можно легко преобразовать в HTML, PDF и другие форматы.
+
+* Популярность: Markdown широко используется в различных платформах, таких как GitHub, Reddit и многих других, что делает его универсальным инструментом для разработчиков и писателей.
+
+* Читабельность: Текст в Markdown остается читабельным даже в исходном виде, что упрощает его редактирование и обмен.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;вывод&#34;&gt;Вывод&lt;/h2&gt;
+&lt;p&gt;Markdown — это отличный инструмент для написания документации, блогов и даже книг. Его простота и гибкость делают его незаменимым в повседневной работе.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост по прошедшей неделе</title>
